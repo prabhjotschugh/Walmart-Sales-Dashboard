@@ -1,5 +1,5 @@
 # Walmart Sales Dashboard
-In this project, I have made a sales dashboard for the sales data of Walmart using Power BI Tool.
+In this project, I have made a sales dashboard for the sales data of Walmart using Power BI Tool. Using this project, companies can keep track of their sales and get answers to all of their questions about how they performed.
 
 The dashboard looks like - 
 
